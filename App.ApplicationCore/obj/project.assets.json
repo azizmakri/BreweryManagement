@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.ApplicationCore\\App.ApplicationCore.csproj",
+      "projectUniqueName": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.ApplicationCore\\App.ApplicationCore.csproj",
       "projectName": "App.ApplicationCore",
-      "projectPath": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.ApplicationCore\\App.ApplicationCore.csproj",
+      "projectPath": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.ApplicationCore\\App.ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\Aziz\\.nuget\\packages\\",
-      "outputPath": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.ApplicationCore\\obj\\",
+      "outputPath": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aziz\\AppData\\Roaming\\NuGet\\NuGet.Config",

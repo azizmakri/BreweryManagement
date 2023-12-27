@@ -32,9 +32,6 @@ namespace App.Infrastructure.Migrations
                     b.Property<float>("AlcoholContent")
                         .HasColumnType("real");
 
-                    b.Property<int>("BreweryFK")
-                        .HasColumnType("int");
-
                     b.Property<int>("BreweryId")
                         .HasColumnType("int");
 
