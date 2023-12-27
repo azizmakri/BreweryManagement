@@ -7923,11 +7923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\BreweryRestApp\\BreweryRestApp.csproj",
+      "projectUniqueName": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\BreweryRestApp\\BreweryRestApp.csproj",
       "projectName": "BreweryRestApp",
-      "projectPath": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\BreweryRestApp\\BreweryRestApp.csproj",
+      "projectPath": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\BreweryRestApp\\BreweryRestApp.csproj",
       "packagesPath": "C:\\Users\\Aziz\\.nuget\\packages\\",
-      "outputPath": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\BreweryRestApp\\obj\\",
+      "outputPath": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\BreweryRestApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aziz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7944,11 +7944,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.ApplicationCore\\App.ApplicationCore.csproj": {
-              "projectPath": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.ApplicationCore\\App.ApplicationCore.csproj"
+            "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.ApplicationCore\\App.ApplicationCore.csproj": {
+              "projectPath": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.ApplicationCore\\App.ApplicationCore.csproj"
             },
-            "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.Infrastructure\\App.Infrastructure.csproj": {
-              "projectPath": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.Infrastructure\\App.Infrastructure.csproj"
+            "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.Infrastructure\\App.Infrastructure.csproj": {
+              "projectPath": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.Infrastructure\\App.Infrastructure.csproj"
             }
           }
         }

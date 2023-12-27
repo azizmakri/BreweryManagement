@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JMj9wJwdhlANufQRILEvsDbRF/1mw67QgCY/aP1NbKv2q5vVNTnh68Ux46K9Mu4nM7qX55yWIFCsWMwQjcXlog==",
+  "dgSpecHash": "xpkPAVt3TKOl/Dfdnn3gIUfD0OLWv2+ozupbW2N/15mVJie33/+64Ugq3xBpbd0/HgpAWvPYUT6w2Q+uhf8sHg==",
   "success": true,
-  "projectFilePath": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\BreweryRestApp\\BreweryRestApp.csproj",
+  "projectFilePath": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\BreweryRestApp\\BreweryRestApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aziz\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Aziz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

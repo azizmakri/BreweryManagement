@@ -21,3 +21,4 @@ D:\AZIZ\4SAE\Sem1\.NET\BreweryManagement\App.ApplicationCore\obj\Debug\net6.0\Ap
 D:\AZIZ\4SAE\Sem1\.NET\BreweryManagement\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
 D:\AZIZ\4SAE\Sem1\.NET\BreweryManagement\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
 D:\AZIZ\4SAE\Sem1\.NET\BreweryManagement\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+D:\AZIZ\5SAE\dotnetRev\BreweryRestApp\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.sourcelink.json

@@ -148,3 +148,7 @@ D:\AZIZ\4SAE\Sem1\.NET\BreweryManagement\BreweryRestApp\obj\Debug\net6.0\ref\Bre
 D:\AZIZ\4SAE\Sem1\.NET\BreweryManagement\BreweryRestApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 D:\AZIZ\4SAE\Sem1\.NET\BreweryManagement\BreweryRestApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 D:\AZIZ\4SAE\Sem1\.NET\BreweryManagement\BreweryRestApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\AZIZ\5SAE\dotnetRev\BreweryRestApp\BreweryRestApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AZIZ\5SAE\dotnetRev\BreweryRestApp\BreweryRestApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\AZIZ\5SAE\dotnetRev\BreweryRestApp\BreweryRestApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\AZIZ\5SAE\dotnetRev\BreweryRestApp\BreweryRestApp\obj\Debug\net6.0\BreweryRestApp.sourcelink.json

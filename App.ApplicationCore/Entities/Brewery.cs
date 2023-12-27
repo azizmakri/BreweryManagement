@@ -15,7 +15,7 @@ namespace App.ApplicationCore.Entities
         public string Name { get; set; }
         // Navigation property for related Beers
 
-        public virtual IList<Beer> Beers { get; set; }
+        public virtual IList<Beer>? Beers { get; set; }
 
 
     }

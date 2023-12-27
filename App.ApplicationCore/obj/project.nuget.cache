@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vfTkgoeqWv4kunWHSx9o6OK/IUvxfk1m0D+qQE49OT/ssFLGtOQXFQjLXaS6P+s04nvvFnJzb/sDsBmeSBn8pA==",
+  "dgSpecHash": "l0Pr2DWIKl/rzHSVVA4NaK5ArkUsgDN1PFNoBNJRedKwm8VF9cs6PSR8Rxt6JBMQEix49Jr2C8ukKtD+Z82Q3w==",
   "success": true,
-  "projectFilePath": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.ApplicationCore\\App.ApplicationCore.csproj",
+  "projectFilePath": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.ApplicationCore\\App.ApplicationCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

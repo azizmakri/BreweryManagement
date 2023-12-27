@@ -18,6 +18,15 @@ namespace App.ApplicationCore.Services
             _unitOfWork = unitOfWork;
         }
 
+        public void addBeerByBrewery(Beer beer, int breweryId)
+        {
+            Brewery brewery = _unitOfWork.Repository<Brewery>().GetById(breweryId);
+            beer.Brewery = brewery;
+
+            _unitOfWork.Repository<Beer>().Add(beer);
+            _unitOfWork.Commit();
+        }
+
         public IList<Beer> getBeersByBrewery(int breweryId)
         {
                 Brewery brewery = _unitOfWork.Repository<Brewery>().GetById(breweryId);

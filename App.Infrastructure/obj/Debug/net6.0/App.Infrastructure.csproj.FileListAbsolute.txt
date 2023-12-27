@@ -33,3 +33,4 @@ D:\AZIZ\4SAE\Sem1\.NET\BreweryManagement\App.Infrastructure\obj\Debug\net6.0\ref
 D:\AZIZ\4SAE\Sem1\.NET\BreweryManagement\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
 D:\AZIZ\4SAE\Sem1\.NET\BreweryManagement\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
 D:\AZIZ\4SAE\Sem1\.NET\BreweryManagement\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+D:\AZIZ\5SAE\dotnetRev\BreweryRestApp\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.sourcelink.json

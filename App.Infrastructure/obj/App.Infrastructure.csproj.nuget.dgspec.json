@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.Infrastructure\\App.Infrastructure.csproj": {}
+    "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.Infrastructure\\App.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.ApplicationCore\\App.ApplicationCore.csproj": {
+    "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.ApplicationCore\\App.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.ApplicationCore\\App.ApplicationCore.csproj",
+        "projectUniqueName": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.ApplicationCore\\App.ApplicationCore.csproj",
         "projectName": "App.ApplicationCore",
-        "projectPath": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.ApplicationCore\\App.ApplicationCore.csproj",
+        "projectPath": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.ApplicationCore\\App.ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\Aziz\\.nuget\\packages\\",
-        "outputPath": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.ApplicationCore\\obj\\",
+        "outputPath": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aziz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.Infrastructure\\App.Infrastructure.csproj": {
+    "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.Infrastructure\\App.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.Infrastructure\\App.Infrastructure.csproj",
+        "projectUniqueName": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.Infrastructure\\App.Infrastructure.csproj",
         "projectName": "App.Infrastructure",
-        "projectPath": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.Infrastructure\\App.Infrastructure.csproj",
+        "projectPath": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.Infrastructure\\App.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Aziz\\.nuget\\packages\\",
-        "outputPath": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.Infrastructure\\obj\\",
+        "outputPath": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aziz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.ApplicationCore\\App.ApplicationCore.csproj": {
-                "projectPath": "D:\\AZIZ\\4SAE\\Sem1\\.NET\\BreweryManagement\\App.ApplicationCore\\App.ApplicationCore.csproj"
+              "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.ApplicationCore\\App.ApplicationCore.csproj": {
+                "projectPath": "D:\\AZIZ\\5SAE\\dotnetRev\\BreweryRestApp\\App.ApplicationCore\\App.ApplicationCore.csproj"
               }
             }
           }

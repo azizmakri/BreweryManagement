@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BreweryRestApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dc347ed8122c7e53e75519d13fc4d6cc0ac5d69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1275546acff4bbd540e89ae1bfb175521fb29184")]
 [assembly: System.Reflection.AssemblyProductAttribute("BreweryRestApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BreweryRestApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
