@@ -34,5 +34,27 @@ namespace BreweryRestApp.Controllers
         {
             _beerService.addBeerByBrewery(beer,breweryId);
         }
+
+
+
+        [HttpPost("AddSale")]
+        public ActionResult<Sale> AddSale(Sale sale)
+        {
+            try
+            {
+                var newSale = _beerService.AddBeerSale(sale.BeerFK, sale.WholesalerFK);
+                return newSale;
+            }
+            catch (ArgumentException ex)
+            {
+                return NotFound(ex.Message);
+            }
+            catch (Exception ex)
+            {
+                // Log the exception (ex) here
+                return BadRequest(ex.Message);
+            }
+        }
+
     }
 }

@@ -18,6 +18,34 @@ namespace App.ApplicationCore.Services
             _unitOfWork = unitOfWork;
         }
 
+        public Sale AddBeerSale(int beerId, int wholesalerId)
+        {
+            var beer = _unitOfWork.Repository<Beer>().GetById(beerId);
+            if (beer == null)
+            {
+                throw new ArgumentException("Beer not found.", nameof(beerId));
+            }
+
+            var wholesaler = _unitOfWork.Repository<Wholesaler>().GetById(wholesalerId);
+            if (wholesaler == null)
+            {
+                throw new ArgumentException("Wholesaler not found.", nameof(wholesalerId));
+            }
+
+            var sale = new Sale
+            {
+                BeerFK = beerId,
+                WholesalerFK = wholesalerId
+            };
+            sale.Beer= beer;
+            sale.Wholesaler = wholesaler;
+            _unitOfWork.Repository<Sale>().Add(sale);
+            _unitOfWork.Commit();
+
+            return sale;
+        }
+
+
         public void addBeerByBrewery(Beer beer, int breweryId)
         {
             Brewery brewery = _unitOfWork.Repository<Brewery>().GetById(breweryId);
