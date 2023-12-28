@@ -14,7 +14,6 @@ namespace App.ApplicationCore.Entities
         public int WholesalerId { get; set; }
         public string Name { get; set; }
 
-
         // Navigation properties for related entities
         public virtual ICollection<Stock>? Stocks { get; set; }
         public virtual ICollection<Sale>? Sales { get; set; }

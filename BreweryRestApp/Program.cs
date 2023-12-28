@@ -21,6 +21,7 @@ builder.Services.AddSwaggerGen();
 
 // Add your services
 builder.Services.AddScoped<IServiceBeer, ServiceBeer>();
+builder.Services.AddScoped<IServiceStock, ServiceStock>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddSingleton<Type>(t => typeof(GenericRepository<>));
 

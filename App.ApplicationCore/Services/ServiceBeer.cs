@@ -67,5 +67,18 @@ namespace App.ApplicationCore.Services
             return _unitOfWork.Repository<Beer>().Find(beer => beer.Brewery.BreweryId == breweryId).ToList();
         }
 
+        public void DeleteBeer(int BeerId)
+        {
+            var beer = _unitOfWork.Repository<Beer>().GetById(BeerId);
+            if (beer == null)
+            {
+                throw new ArgumentException("Beer not found.", nameof(BeerId));
+            }
+
+            _unitOfWork.Repository<Beer>().Delete(beer);
+            _unitOfWork.Commit();
+        }
+
+
     }
 }
